@@ -1,0 +1,1 @@
+Test pipe-ing a string from echo command to a text file
